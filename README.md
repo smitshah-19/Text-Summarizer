@@ -9,4 +9,4 @@
 5. Update components
 6. Update pipeline
 7. Update main.py
-8. Update app.py
+8. Update app.py 
